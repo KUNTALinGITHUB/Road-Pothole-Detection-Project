@@ -1,0 +1,4 @@
+names:
+  - major_pothole
+  - medium_pothole
+  - minor_pothole
